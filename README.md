@@ -14,6 +14,10 @@ Technologies Used:
 - CSS: Stylesheet language used for designing the website layout and appearance.
 - JavaScript: Programming language used to add interactivity and dynamic functionality.
 
+View the Website Online:-https://batchumamatha.github.io/BlogWebsite/
+
+Note:- If you face any problems/errors in website then try to refresh the page :)
+
 Deployment:
 The website can be deployed on any web server or hosting platform supporting HTML, CSS, and JavaScript. You can simply clone the repository and open the index.html file in a web browser to view the website locally.
 
